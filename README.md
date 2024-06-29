@@ -10,3 +10,5 @@ brightness and the color coordinates. So the code here is to teach the company w
 The theory is that, the color gamut is the LED display's R,G,B. 
 Then we can use the brightness meter to measure the color coordinates of the R,G,B. Then we can calculate the intersection area of the tested R,G,B with the existing REC709, DCI, and REC2020's area.
 Then Using its intersection area to divide the Areas of REC709, DCI, and REC2020. Then we would know the portion of the color space.
+
+Or you can directly contact with professional led display supplier who can provide the color space data. Like you can contact with https://tepixel.com
